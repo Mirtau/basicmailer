@@ -1,7 +1,10 @@
 .header{
-  color: red;
+  color: black;
 }
-.page{
-  align-content: center;
-  padding-left: 25px;
+body{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: #171796;
+  font-family: sans-serif;
 }
